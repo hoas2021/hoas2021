@@ -1,0 +1,14 @@
+
+git init
+git status
+git add .
+git status
+git commit -m "tercera clase usando stilos"
+git -f push origin master
+
+https://getbootstrap.com/docs/4.6/getting-started/download/
+
+https://www.w3schools.com/html/html_basic.asp
+
+https://github.com/jdextrea/paginashtml/commit/aa05ffdf5dbdcf9892c0a1667f3694faf0f02679
+https://www.w3schools.com/html/html_basic.asp
