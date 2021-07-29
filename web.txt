@@ -1,3 +1,11 @@
+https://github.com/hoas2021/hoas-v1.git
+
+git init
+git add
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hoas2021/hoas-v1.git
+git push -u origin main
 
 git init
 git status
@@ -5,7 +13,7 @@ git add .
 git status
 git commit -m "tercera clase usando stilos"
 git push origin master
-git -f push origin master
+git push -f origin master
 
 https://getbootstrap.com/docs/4.6/getting-started/download/
 
