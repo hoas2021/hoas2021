@@ -3,22 +3,35 @@ https://github.com/hoas2021/hoas-v1.git
 git init
 git add
 git commit -m "first commit"
-git branch -M main
+git branch -M master
 git remote add origin https://github.com/hoas2021/hoas-v1.git
-git push -u origin main
+git push -u origin main // git push origin master
 
 git init
 git status
 git add .
 git status
-git commit -m "tercera clase usando stilos"
 git push origin master
 git push -f origin master
 
+
+/*
+
+Abrir una consola de git:
+1. Elegir una carpeta.
+2. Click derecho a la carpeta y elegir git bash here.
+3. git init (iniciar repositorio local)
+4. subo archivos.
+5. git status (para ver los cambios)
+6. git add . (subir los archivos que vas a versionar).
+7. git commit -m "Comentarios"
+8. git remote add origin https://github.com/jdextrea/certus-java-2021.git
+9. git push origin master (git push -f origin master)
+
+*/
+
 https://getbootstrap.com/docs/4.6/getting-started/download/
-
 https://www.w3schools.com/html/html_basic.asp
-
 https://github.com/jdextrea/paginashtml/commit/aa05ffdf5dbdcf9892c0a1667f3694faf0f02679
 https://www.w3schools.com/html/html_basic.asp
 
