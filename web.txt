@@ -1,4 +1,10 @@
+/*redireccionar url github*/
+git remote set-url origin https://github.com/hoas2021/hoas2021.git
+/*forzar actualización*/
+git fetch
+
 https://github.com/hoas2021/hoas-v1.git
+https://github.com/hoas2021/hoas2021.git
 
 git init
 git add
